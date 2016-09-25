@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+    <string name="button_1">POPULAR MOVIES</string>
+    <string name="button_2">STOCK HAWK</string>
+    <string name="button_3">BUILD IT BIGGER</string>
+    <string name="button_4">MAKE YOUR APP MATERIAL</string>
+    <string name="button_5">GO UBIQUITOOS</string>
+    <string name="button_6">CAPSTONE</string>
+</resources>

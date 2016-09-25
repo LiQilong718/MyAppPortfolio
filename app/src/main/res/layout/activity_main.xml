@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+
+
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="My Nanodegree Apps!"
+        android:textSize="24sp"/>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:background="#333366"
+        android:text="@string/button_1"
+        android:textColor="#ffffff"
+        android:textSize="15sp"/>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:background="#333366"
+        android:text="@string/button_2"
+        android:textColor="#ffffff"
+        android:textSize="15sp"/>
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:background="#333366"
+        android:text="@string/button_3"
+        android:textColor="#ffffff"
+        android:textSize="15sp"/>
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:background="#333366"
+        android:text="@string/button_4"
+        android:textColor="#ffffff"
+        android:textSize="15sp"/>
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:background="#333366"
+        android:text="@string/button_5"
+        android:textColor="#ffffff"
+        android:textSize="15sp"/>
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:background="#333366"
+        android:text="@string/button_6"
+        android:textColor="#ffffff"
+        android:textSize="15sp"/>
+
+</LinearLayout>
